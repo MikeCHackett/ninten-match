@@ -1,3 +1,14 @@
+# Ninten-Match
+
+This is a web browswer based card matching game I created using React.
+
+## Description
+
+The purpose of this project was to display my knowledge of React and React hooks.
+I also styled this application using TailwindCSS styles, and made sure it was mobile responsive.
+
+[View Project here](https://nintenmatch.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
